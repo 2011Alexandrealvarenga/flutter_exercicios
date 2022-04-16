@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'exercicios/lista_horizontal.dart';
+import 'tabbar.dart';
 
 void main() {
   runApp(MeuApp());
