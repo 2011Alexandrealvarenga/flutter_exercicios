@@ -23,4 +23,6 @@ class Botao extends StatelessWidget{
     required this.onPress,
   });
   void Function() onPress;
+  <!-- substituição -->
+  FlatButton e do RaisedButton, eles foram substituidos pelo TextButton e pelo ElevatedButton
 
